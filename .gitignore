@@ -396,5 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
 *.lib
 *.exp
+PhysX_3.4/Media/PhysX/3.4/Samples/user/
